@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My F00d</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register_user">User Registration</string>
+
+    <string name="email_prompt">E-mail Address&#8230;</string>
+    <string name="password_prompt">Password&#8230;</string>
+    <string name="confPassword_prompt">Re-enter Password&#8230;</string>
+    <string name="fName_prompt">First Name&#8230;</string>
+    <string name="lName_prompt">Last Name&#8230;</string>
+
+    <string name="login">Login</string>
+    <string name="registerNow">Register Now!</string>
+    <string name="reg">Register</string>
+    <string name="householdCode_prompt">Household Code&#8230;</string>
+    <string name="joinHousehold">Join Household</string>
+    <string name="regHousehold">Register Household</string>
+    <string name="title_activity_reg_join_household">Register/Join Household</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_add_food">Add Food</string>
+
+    <string name="name_prompt">Name of food&#8230;</string>
+    <string name="category_prompt">Sorting category&#8230;</string>
+
+    <string name="current_stock">Current Stock</string>
+    <string name="notification_stock">Notification Stock</string>
+    <string name="ideal_stock">Ideal Stock</string>
+
+    <string name="stocks_prompt">Edit Stocks</string>
+
+    <string name="unit_prompt">Unit of measurement&#8230;</string>
+    <string name="expiry_date_prompt">Expiry Date (Click here to edit!)</string>
+
+    <string name="price_prompt">Price&#8230;</string>
+
+    <string name="picture_prompt">Add picture</string>
+
+    <string name="notes_prompt">Notes&#8230;</string>
+
+    <string name="confirm">Confirm</string>
+
+    <string name="empty_food">No cataloged food. Try adding some!</string>
+
+    <string name="empty_category">No categories added. Try adding some!</string>
+
+    <string-array name="array_mainMenu">
+        <item>All Food Items</item>
+        <item>Categories</item>
+        <item>Add Food Item</item>
+        <item>Sync</item>
+        <item>Logout</item>
+    </string-array>
+
+
+</resources>
