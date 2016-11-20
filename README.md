@@ -1,8 +1,8 @@
 # MyF00d-app
-## Personal Food Inventory Tracking Android Application
-## Development Ended
+### Personal Food Inventory Tracking Android Application
+### Development Ended
 
-## ONLINE FUNCTIONALITY DISABLED! BACKEND OFFLINE!
+### ONLINE FUNCTIONALITY DISABLED! BACKEND OFFLINE!
 
 Backend scripts (https://github.com/dylandao99/myf00d-backend)
 
